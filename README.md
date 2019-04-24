@@ -1,3 +1,3 @@
 # opendeurdagBcode
 
-## https://rafclaessens.github.io/opendeurdagBcode/
+## https://rafclaessens.github.io/Mainopendeurdag2504/
