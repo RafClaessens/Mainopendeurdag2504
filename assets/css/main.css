@@ -3920,8 +3920,8 @@ input, select, textarea {
 			.logobecode{
 				border: 5px solid black;
 				border-radius: 50%;
-				width: 450px;
-				height: 450px;
+				width: 400px;
+				height: 400px;
 				position: absolute;
 				right: 30px;
 				bottom: -20px;
@@ -3936,8 +3936,8 @@ input, select, textarea {
 			.logobecode{
 				border: 5px solid black;
 				border-radius: 50%;
-				width: 450px;
-				height: 450px;
+				width: 400px;
+				height: 400px;
 				position: absolute;
 				right: 30px;
 				bottom: -20px;
@@ -3952,10 +3952,10 @@ input, select, textarea {
 			.logobecode{
 				border: 5px solid black;
 				border-radius: 50%;
-				width: 450px;
-				height: 450px;
+				width: 380px;
+				height: 380px;
 				position: absolute;
-				right: 30px;
+				right: 25px;
 				bottom: -20px;
 			}
 			.blokked{
@@ -3968,10 +3968,10 @@ input, select, textarea {
 			.logobecode{
 				border: 5px solid black;
 				border-radius: 50%;
-				width: 250px;
-				height: 250px;
+				width: 210px;
+				height: 210px;
 				position: absolute;
-				right: 20px;
+				right: 10px;
 				bottom: -20px;
 			}
 			.blokked{
@@ -3983,10 +3983,10 @@ input, select, textarea {
 			.logobecode{
 				border: 5px solid black;
 				border-radius: 50%;
-				width: 220px;
-				height: 220px;
+				width: 180px;
+				height: 180px;
 				position: absolute;
-				right: 30px;
+				right: 10px;
 				bottom: -20px;
 			}
 			.blokked{
